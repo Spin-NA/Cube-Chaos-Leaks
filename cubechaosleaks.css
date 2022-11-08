@@ -1,0 +1,25 @@
+body {
+    background-image: url("headerbackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.copyright {
+    text-align: center;
+    color: white;
+    margin-top: 580px;
+    font-weight: bold;
+    font-family: Century Gothic, sans-serif;
+}
+
+.image {
+    margin-top: 25px;
+    margin: 25px
+}
+
+.title {
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: Century Gothic, sans-serif;
+}
