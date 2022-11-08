@@ -23,3 +23,10 @@ body {
     font-weight: bold;
     font-family: Century Gothic, sans-serif;
 }
+
+.date {
+    margin: 10px;
+    color: rgb(255, 66, 113);
+    font-weight: bold;
+    font-family: Century Gothic, sans-serif;
+}
