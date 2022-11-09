@@ -15,4 +15,6 @@ body {
 .image {
     margin-top: 25px;
     margin: 25px
+display: flex
+justify-content: center
 }
