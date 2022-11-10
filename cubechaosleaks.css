@@ -39,8 +39,3 @@ color: #fff;
         background-color: rgb(54 54, 54);
         transition: 0.5s;
     }
-
-.styled {
-    display: flex;
-    justify-content: left;
-}
