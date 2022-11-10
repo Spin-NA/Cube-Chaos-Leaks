@@ -33,9 +33,9 @@ color: #fff;
     font-family: Century Gothic, sans-serif;
     font-weight: bold;
     margin-left: 5px;
-display: flex;
-justify-content: center;
-  align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     }
     
     .styled:hover {
