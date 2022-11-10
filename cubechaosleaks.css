@@ -31,9 +31,10 @@ color: #fff;
     border-color: #fff;
     background-size: 20;
     font-family: Century Gothic, sans-serif;
-font-weight: bold
-display: flex;
-justify-content: center;
+    font-weight: bold
+    display: flex;
+    justify-content: center;
+    margin-left: 5px
     }
     
     .styled:hover {
