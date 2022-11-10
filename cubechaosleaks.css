@@ -33,12 +33,15 @@ color: #fff;
     font-family: Century Gothic, sans-serif;
     font-weight: bold;
     margin-left: 5px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     }
     
     .styled:hover {
         background-color: rgb(54 54, 54);
         transition: 0.5s;
     }
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
