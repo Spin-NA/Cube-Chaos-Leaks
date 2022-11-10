@@ -40,7 +40,7 @@ color: #fff;
         transition: 0.5s;
     }
 
-.button {
+.buttons {
     display: flex;
     justify-content: center;
     align-items: center;
